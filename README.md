@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Jai Anand
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jai-Anand-JA&style=flat-square)
-
 🎓 Software Engineering Student | 💻 Full Stack Developer 
 🔧 Tech Stack: MERN | Spring Boot | Java | C | Javascript | MySQL | MongoDB  
 🚀 Building real-world, scalable applications
@@ -33,7 +31,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?Jai-Anand-JA&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jai-Anand-JA&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Anand-JA&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jai-Anand-JA&show_icons=true&theme=radical)
 
