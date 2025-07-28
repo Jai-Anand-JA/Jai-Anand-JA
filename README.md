@@ -1,6 +1,7 @@
   ## 👋 Hi there, I'm Jai Anand
 
-🎓 Software Engineering Student | 💻 Full Stack Developer 
+🎓 Software Engineering Student | 💻 Full Stack Developer
+
 🔧 Tech Stack: MERN | Spring Boot | Java | C | Javascript | MySQL | MongoDB  
 🚀 Building real-world, scalable applications
 
