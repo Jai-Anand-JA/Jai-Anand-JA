@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jai-Anand-JA&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Jai-Anand-JA&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Anand-JA&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jai-Anand-JA&show_icons=true&theme=radical)
 
