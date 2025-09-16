@@ -9,7 +9,7 @@
 ## 🚀 Projects
 - **ChatterBox** – ChatterBox is a modern real-time chat application built with the MERN stack, enhanced by Socket.io for instant messaging and TailwindCSS with DaisyUI for a sleek, responsive design.
 - **MovieRecommender** – A smart movie recommendation engine that combines Popularity-Based, Content-Based, and Item-Based Collaborative Filtering techniques to provide personalized and trending movie suggestions.
-- **Sportify** – A full-stack sports e-commerce web application built with Java Spring Boot and React.
+- **Smart AI Email Assistant** – Full-stack application with Gmail Chrome Extension that generates context-aware, tone-customizable email replies using Google Gemini via Spring AI.  
 
 > 🛠️ I believe in building while learning. Every repo is a step closer to mastery.
 
