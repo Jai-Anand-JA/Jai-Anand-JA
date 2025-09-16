@@ -20,12 +20,12 @@
 | Category        | Skills |
 |----------------|--------|
 | 🌐 Frontend     | React.js, HTML5, CSS3, Tailwind CSS, JavaScript |
-| 🔙 Backend      | Node.js, Express.js, Spring Boot, REST APIs |
+| 🔙 Backend      | Node.js, Express.js, Spring Boot, REST APIs, Spring MVC, Spring Security, Spring AI, Hibernate |
 | 💾 Database     | MongoDB, MySQL|
 | 🔐 Auth & APIs  | JWT, OAuth, Postman |
 | 🧠 DSA          | Java, LeetCode, GFG|
 | 🧪 Testing      | Postman |
-| ⚙️ Tools        | Git, GitHub, VSCode, IntelliJ, Figma |
+| ⚙️ Tools        | Git, GitHub, VSCode, IntelliJ, Figma, Jupyter Notebook, Google Colab |
 
 ---
 
